@@ -1,0 +1,61 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "code": "PROD-0001",
+        "name": "Paracetamol",
+        "categoryId": 1,
+        "quantity": 100,
+        "price": 5000,
+        "importDate": "2024-10-28T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "code": "PROD-000",
+        "name": "Ibuprofen",
+        "categoryId": 2,
+        "quantity": 200,
+        "price": 7000,
+        "importDate": "2024-10-27T10:00:00Z"
+      },
+      {
+        "id": "9567",
+        "code": "PROD-0003",
+        "name": "Naproxen",
+        "categoryId": 2,
+        "importDate": "2024-10-28",
+        "quantity": 100,
+        "price": 100000
+      },
+      {
+        "id": "edc0",
+        "code": "PROD-0004",
+        "name": "Diclofenac",
+        "categoryId": 2,
+        "importDate": "2024-10-28",
+        "quantity": 1000,
+        "price": 1000000
+      },
+      {
+        "id": "0249",
+        "code": "PROD-0006",
+        "name": "Oxycodone",
+        "categoryId": 1,
+        "importDate": "2024-10-28",
+        "quantity": 1000,
+        "price": 1200000
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Thuốc giảm đau",
+        "description": "Các loại thuốc giảm đau."
+      },
+      {
+        "id": 2,
+        "name": "Thuốc kháng viêm",
+        "description": "Các loại thuốc kháng viêm."
+      }
+    ]
+  }
